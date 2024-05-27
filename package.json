@@ -1,0 +1,18 @@
+{
+  "name": "raycast-pid-message-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node dev.js",
+    "start-server": "node server.js",
+    "build": "echo 'Building project...' && sleep 1"
+  },
+  "author": "RiverRay",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^3.6.0",
+    "express": "^4.19.2",
+    "signal-exit": "^4.1.0"
+  }
+}

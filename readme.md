@@ -13,7 +13,7 @@ This project provides a simple way to manage development sessions using a PID fi
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/dev-session-manager.git
+    git clone https://github.com/leizhenpeng/dev-session-manager.git
     cd dev-session-manager
     ```
 
